@@ -1,2 +1,26 @@
-/* Titre principal en rouge */
-h1 { color:red; }
+/* Totalité de la page avec une couleur de fond : gris clair */
+body {
+	background-color:lightgrey;
+}
+
+/* Titre principal avec le texte en rouge et le fond en jaune */
+h1 { 
+color:red; 
+background-color:yellow;
+}
+
+/* Sous-titres du main en vert */
+
+main h2 {
+	color:green;
+}
+
+#activ {
+	color:orange;
+}
+
+/* changer la couleur des liens des pages avec la classe .lienpage */
+.lienpage {
+	color:black;
+}
+
