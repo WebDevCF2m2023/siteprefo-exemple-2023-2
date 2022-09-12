@@ -3,6 +3,33 @@ body {
 	background-color:lightgrey;
 }
 
+/* Style des liens du menu de navigation */
+nav ul li a {
+	text-decoration: none;  /* supprimer le souligné des liens */
+	color: #000000;			/* couleurs des liens */
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
+/* Style pour modifier l'affichage des puces de la liste */
+nav ul {
+	list-style-type: none;	/* pas de style à la liste */
+}
+
+/* Style pour modifier l'affichage des éléments de liste */
+/* Les placer à l'horizontal */
+nav ul li {
+	display: inline-block;
+	margin-right: 20px;
+	background-color: darkgrey;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+
 /* Titre principal avec le texte en rouge et le fond en jaune */
 h1 { 
 color:red; 
