@@ -9,6 +9,7 @@ nav ul li a {
 	color: #000000;			/* couleurs des liens */
 	font-variant: small-caps;
 	font-weight: bold;
+	font-size: 18px;
 }
 
 /* Style pour modifier l'affichage des puces de la liste */
