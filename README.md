@@ -1,4 +1,5 @@
 # siteprefo
+
 Exemple de site pour la préfo 2022
 
 Ce site a pour objectif de servir de démonstration pour expliquer la théorie vue au cours de HTML/CSS
@@ -11,3 +12,4 @@ Notre Trello :
 
 https://trello.com/b/6FJr6t8s/pr%C3%A9fo-web-groupe-2
 
+salut l equipe nr2
