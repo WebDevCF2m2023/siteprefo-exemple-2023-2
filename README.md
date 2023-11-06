@@ -11,3 +11,7 @@ Notre Trello :
 
 https://trello.com/b/6FJr6t8s/pr%C3%A9fo-web-groupe-2
 
+### Bienvenue
+
+A toute l'équipe 2 !
+
